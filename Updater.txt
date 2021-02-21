@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+data/test.zip https://www.dropbox.com/s/jpp0lpvhpxwm5vm/SRD_RandomEncounterSwitches.js?dl=1
+<End of version>
